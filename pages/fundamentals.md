@@ -1,0 +1,1 @@
+# 😃 The things you need to know before starting this JavaScript guide.
