@@ -39,5 +39,5 @@
 ||||
 
 <br>
-<h4 align="center">Don't forget to ⭐ this <a href="https://github.com/Pradumnasaraf/open-source-with-pradumna">repo</a></h4>
+<h4 align="center">This has been taken from Pradumna's "Open Source With Pradumna" Repo. Don't forget to ⭐ his amazing project <a href="https://github.com/Pradumnasaraf/open-source-with-pradumna">repository.</a></h4>
 
