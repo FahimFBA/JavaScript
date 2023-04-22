@@ -11,7 +11,7 @@ on:
     pull_request_review_comment:
       types: [created]
   
-  jobs:
+jobs:
     welcome:
       runs-on: ubuntu-latest
       steps:
