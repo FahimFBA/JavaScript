@@ -25,3 +25,10 @@ For Eg: There is a separate page for JS Fundamentals.
 |-----------------------------------------------------------------------------------------------------------------|-------------|:---------------------------:|
 |![JS Fundamentals](https://user-images.githubusercontent.com/64195132/233770538-ccc0db49-5d14-4701-b69e-201c6beac1fe.png)| Contains the fundamentals that you must need to know before jumping into the advanced JavaScript |[![JS Fundamentals](https://user-images.githubusercontent.com/64195132/233770578-90711e77-c269-4cdb-8832-7f58d3e87e9d.png)](/pages/Fundamentals.md)|
 | ![Bonus](https://user-images.githubusercontent.com/64195132/233771883-333741d6-d389-41f3-852c-85c279207a4a.png) | Contains some BONUS knowledge that you do not want to miss at any cost!|[![Bonus](https://user-images.githubusercontent.com/64195132/233770578-90711e77-c269-4cdb-8832-7f58d3e87e9d.png)](/pages/Bonus.md)|
+
+
+---
+<div align="center">
+    <h3>Don't forget to ⭐ this repo</h3>
+    <h5>Building with the COMMUNITY for the COMMUNITY ❤️</h5>
+</div>
