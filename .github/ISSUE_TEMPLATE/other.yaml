@@ -1,5 +1,5 @@
 name: ❗ Other
-description: Use this for any other issues. Please **DO NOT** create any blank issue.
+description: Use this for any other issues. Please DO NOT create any blank issue.
 title: '[OTHER] <description>'
 labels: ['other']
 body:
