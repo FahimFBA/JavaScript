@@ -1,2 +1,5 @@
 - Pages
-    - [Fundamentals](./pages/fun): # Path: _pages\about.md
+    - [JS Fundamentals](./pages/Fundamentals.md)
+    - [Open Source Fundamentals (OSWP)](./pages/How-to/README.md)
+    - [JS Advanced](#)
+    - [JS Problem Solving](#)
