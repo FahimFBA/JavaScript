@@ -6,4 +6,4 @@
 |   2   |    ![Everything of Java](https://user-images.githubusercontent.com/64195132/233770129-76322f63-727e-41ef-969e-324e1b691299.png)     |  **English**   | [`FahimFBA/everything-of-java`](https://github.com/FahimFBA/everything-of-java) |
 
 
-<h4 align="center">Don't forget to ⭐ this <a href="https://github.com/FahimFBA/JavaScript">repo</a></h4>
+<h4 align="center">Don't forget to ⭐ this <a href="https://github.com/FahimFBA/JavaScript">repository</a></h4>

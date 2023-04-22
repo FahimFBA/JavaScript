@@ -29,6 +29,6 @@ For Eg: There is a separate page for JS Fundamentals.
 
 ---
 <div align="center">
-    <h3>Don't forget to ⭐ this repo</h3>
+    <h3>Don't forget to ⭐ this <a href="https://github.com/FahimFBA/JavaScript">repository</h3>
     <h5>Building with the COMMUNITY for the COMMUNITY ❤️</h5>
 </div>
